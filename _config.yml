@@ -6,6 +6,10 @@
 # https://learn-the-web.algonquindesign.ca/topics/markdown-yaml-cheat-sheet/#yaml
 # https://learnxinyminutes.com/docs/yaml/
 
+title: Deep Learning Blog
+description:
+github_username: aashimalhotra
+
 # Email and twitter are optional:
 email:
 twitter_username:
