@@ -36,7 +36,7 @@
             if (el.getAttribute("title")) {
                 const caption = document.createElement('figcaption');
                 var node = document.createTextNode(el.getAttribute("title"));
-                caption.appendChild(node);
+                < !--caption.appendChild(node);-- >
                 const wrapper = document.createElement('figure');
                 wrapper.className = 'image';
                 el.parentNode.insertBefore(wrapper, el);
